@@ -21,10 +21,10 @@
 ##############################################################################
 
 {
-	'name': 'Merlin Custom CRM',
+	'name': 'leads with product in crm',
 	'version': '1.0',
 	'author': 'Brijesh Kesariya / Merlin TecSol Pvt. Ltd.',
-	'category': 'Merlin CRM',
+	'category': 'CRM',
 	'website': 'http://www.merlintecsol.com',
 	'license': 'GPL-3',
 	'data': [],
